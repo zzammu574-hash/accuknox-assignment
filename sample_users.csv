@@ -1,0 +1,16 @@
+name,email,age,city,signup_date
+Alice Johnson,alice.johnson@example.com,28,New York,2024-01-15
+Bob Smith,bob.smith@example.com,34,Los Angeles,2024-02-03
+Carol White,carol.white@example.com,22,Chicago,2024-02-18
+David Brown,david.brown@example.com,45,Houston,2024-03-07
+Eva Martinez,eva.martinez@example.com,31,Phoenix,2024-03-22
+Frank Wilson,frank.wilson@example.com,27,Philadelphia,2024-04-10
+Grace Lee,grace.lee@example.com,38,San Antonio,2024-04-25
+Henry Taylor,henry.taylor@example.com,52,San Diego,2024-05-01
+Isla Anderson,isla.anderson@example.com,24,Dallas,2024-05-14
+Jack Thomas,jack.thomas@example.com,29,San Jose,2024-06-02
+Karen Jackson,karen.jackson@example.com,41,Austin,2024-06-19
+Liam Harris,liam.harris@example.com,33,Jacksonville,2024-07-08
+Mia Clark,mia.clark@example.com,26,Fort Worth,2024-07-23
+Noah Lewis,noah.lewis@example.com,37,Columbus,2024-08-05
+Olivia Walker,olivia.walker@example.com,30,Charlotte,2024-08-20
