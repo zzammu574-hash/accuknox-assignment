@@ -151,7 +151,10 @@ def plot_bar_chart(averages: dict[str, float], output_path: str = "student_score
     plt.tight_layout()
     plt.savefig(output_path, dpi=150)
     print(f"\nBar chart saved to '{output_path}'.")
-    plt.show()
+    try:
+        plt.show()
+    except KeyboardInterrupt:
+        pass  # User closed the window with Ctrl+C — chart already saved, that's fine
 
 
 # ---------------------------------------------------------------------------
