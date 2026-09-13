@@ -1,0 +1,10 @@
+# Python bytecode
+__pycache__/
+*.pyc
+*.pyo
+
+# SQLite databases (generated at runtime)
+*.db
+
+# Generated chart output
+*.png
